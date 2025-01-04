@@ -2,7 +2,7 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": ["AthenaGlider:Glider_Prismatic"],
-        "price": 800
+        "price": 1200
     },
     "daily2": {
         "itemGrants": ["AthenaCharacter:CID_031_Athena_Commando_M_Retro"],
