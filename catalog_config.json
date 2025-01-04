@@ -5,16 +5,16 @@
         "price": 800
     },
     "daily2": {
-        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
-        "price": 0
+        "itemGrants": ["AthenaCharacter:CID_031_Athena_Commando_M_Retro"],
+        "price": 2000
     },
     "daily3": {
-        "itemGrants": [""],
-        "price": 0
+        "itemGrants": ["AthenaCharacter:CID_030_Athena_Commando_M_Halloween"],
+        "price": 1500
     },
     "daily4": {
-        "itemGrants": [""],
-        "price": 0
+        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"],
+        "price": 1500
     },
     "daily5": {
         "itemGrants": ["AthenaCharacter:CID_017_Athena_Commando_M"],
