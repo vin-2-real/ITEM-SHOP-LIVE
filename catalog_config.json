@@ -1,11 +1,11 @@
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["AthenaGlider:Glider_Prismatic"],
+        "itemGrants": ["AthenaDance:EID_Fresh"],
         "price": 1200
     },
     "daily2": {
-        "itemGrants": ["AthenaCharacter:CID_031_Athena_Commando_M_Retro"],
+        "itemGrants": ["AthenaDance:EID_ElectroShuffle"],
         "price": 2000
     },
     "daily3": {
@@ -13,19 +13,19 @@
         "price": 1500
     },
     "daily4": {
-        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"],
+        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_013_Teslacoil"],
         "price": 1500
     },
     "daily5": {
-        "itemGrants": ["AthenaCharacter:CID_017_Athena_Commando_M"],
+        "itemGrants": ["AthenaCharacter:CID_043_Athena_Commando_F_Stealth"],
         "price": 1200
     },
     "daily6": {
-        "itemGrants": ["AthenaGlider:Glider_ID_001"],
+        "itemGrants": ["AthenaGlider:Glider_ID_010_Storm"],
         "price": 500
     },
     "featured1": {
-        "itemGrants": ["AthenaPickaxe:Pickaxe_Lockjaw"],
+        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_016_Disco"],
         "price": 1500
     },
     "featured2": {
