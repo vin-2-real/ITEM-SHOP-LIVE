@@ -1,35 +1,35 @@
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["AthenaDance:EID_Fresh"],
+        "itemGrants": [""],
         "price": 1200
     },
     "daily2": {
-        "itemGrants": ["AthenaDance:EID_ElectroShuffle"],
-        "price": 2000
+        "itemGrants": [""],
+        "price": 300
     },
     "daily3": {
-        "itemGrants": ["AthenaCharacter:CID_030_Athena_Commando_M_Halloween"],
+        "itemGrants": ["AthenaCharacter:CID_103_Athena_Commando_M_Bunny"],
         "price": 1500
     },
     "daily4": {
-        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_013_Teslacoil"],
+        "itemGrants": ["AthenaCharacter:CID_104_Athena_Commando_F_Bunny"],
         "price": 1500
     },
     "daily5": {
-        "itemGrants": ["AthenaCharacter:CID_043_Athena_Commando_F_Stealth"],
-        "price": 1200
+        "itemGrants": ["AthenaDance:EID_DiscoFever"],
+        "price": 800
     },
     "daily6": {
-        "itemGrants": ["AthenaGlider:Glider_ID_010_Storm"],
+        "itemGrants": ["AthenaDance:EID_TakeTheL"],
         "price": 500
     },
     "featured1": {
-        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_016_Disco"],
+        "itemGrants": ["AthenaCharacter:CID_313_Athena_Commando_M_KpopFashion"],
         "price": 1500
     },
     "featured2": {
-        "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
-        "price": 1200
+        "itemGrants": ["AthenaDance:EID_KPopDance03"],
+        "price": 300
     }
 }
